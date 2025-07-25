@@ -1,0 +1,4 @@
+1234567890        akulapalkish01
+
+
+mongodb+srv://akulapalkish01:1234567890@java-full-stack.kxdbf0d.mongodb.net/

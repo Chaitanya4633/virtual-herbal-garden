@@ -1,0 +1,116 @@
+[
+  {
+    "botanicalName": "Ocimum sanctum",
+    "commonNames": ["Tulsi", "Holy Basil", "Sacred Basil"],
+    "description": "Tulsi is a sacred plant in Indian culture, known for its medicinal properties such as anti-inflammatory, anti-viral, and antioxidant effects. It is used to treat respiratory disorders, boost immunity, and reduce stress.",
+    "region": "India",
+    "plantType": "Herb",
+    "medicinalUses": ["Anti-inflammatory", "Antiviral", "Antioxidant", "Respiratory Relief", "Immunity Booster", "Anti-Stress"],
+    "imageUrls": [
+      "https://example.com/images/tulsi1.jpg",
+      "https://example.com/images/tulsi2.jpg"
+    ],
+    "model3DUrl": "https://example.com/models/tulsi.glb",
+    "videoUrls": [
+      "https://youtu.be/Ln3W9k9GVIE?si=tlrBb0gaQ2NhPSJg"
+    ],
+    "audioUrl": "https://example.com/audio/tulsi_description.mp3",
+    "habitat": "Native to India, commonly found in gardens.",
+    "cultivation": "Prefers warm climates and well-drained soil. Grows well in pots or garden beds."
+  },
+  {
+    "botanicalName": "Withania somnifera",
+    "commonNames": ["Ashwagandha", "Indian Ginseng", "Winter Cherry"],
+    "description": "Ashwagandha is a powerful adaptogen known for reducing stress and anxiety, improving vitality, and boosting immunity.",
+    "region": "India",
+    "plantType": "Shrub",
+    "medicinalUses": ["Adaptogen", "Stress Relief", "Immunity Booster"],
+    "imageUrls": [
+      "https://example.com/images/ashwagandha1.jpg",
+      "https://example.com/images/ashwagandha2.jpg"
+    ],
+    "model3DUrl": "https://example.com/models/ashwagandha.glb",
+    "videoUrls": [
+      "https://youtube.com/shorts/_2oW-Y3I8WA?si=MwGmLWZwQ9ZwtAkS"
+    ],
+    "audioUrl": "https://example.com/audio/ashwagandha_description.mp3",
+    "habitat": "Native to India, grows well in arid regions.",
+    "cultivation": "Prefers dry, well-drained soil and full sunlight."
+  },
+  {
+    "botanicalName": "Curcuma longa",
+    "commonNames": ["Turmeric", "Haldi", "Indian Saffron"],
+    "description": "Turmeric is widely known for its anti-inflammatory and antioxidant properties. It plays a vital role in digestive health and traditional healing.",
+    "region": "Southeast Asia",
+    "plantType": "Rhizome",
+    "medicinalUses": ["Anti-inflammatory", "Antioxidant", "Digestive Health"],
+    "imageUrls": [
+      "https://example.com/images/turmeric1.jpg",
+      "https://example.com/images/turmeric2.jpg"
+    ],
+    "model3DUrl": "https://example.com/models/turmeric.glb",
+    "videoUrls": [
+      "https://youtube.com/shorts/wHURcl8Y3m8?si=0m4Z8rOuj-l1LNWt"
+    ],
+    "audioUrl": "https://example.com/audio/turmeric_description.mp3",
+    "habitat": "Native to Southeast Asia, requires a warm, humid climate.",
+    "cultivation": "Grows in rich, well-drained soil with ample rainfall."
+  },
+  {
+    "botanicalName": "Cinnamomum verum",
+    "commonNames": ["Cinnamon", "Ceylon Cinnamon", "True Cinnamon"],
+    "description": "Cinnamon is used traditionally for managing blood sugar levels and has anti-inflammatory and antimicrobial benefits.",
+    "region": "Sri Lanka",
+    "plantType": "Tree Bark",
+    "medicinalUses": ["Blood Sugar Regulation", "Anti-inflammatory", "Antimicrobial"],
+    "imageUrls": [
+      "https://example.com/images/cinnamon1.jpg",
+      "https://example.com/images/cinnamon2.jpg"
+    ],
+    "model3DUrl": "https://example.com/models/cinnamon.glb",
+    "videoUrls": [
+      "https://youtube.com/shorts/fz_S-SOqolY?si=qZmeTRFtEc-RPFsj"
+    ],
+    "audioUrl": "https://example.com/audio/cinnamon_description.mp3",
+    "habitat": "Native to Sri Lanka, thrives in tropical climates.",
+    "cultivation": "Prefers warm, humid environments with well-drained soil."
+  },
+  {
+    "botanicalName": "Elettaria cardamomum",
+    "commonNames": ["Cardamom", "True Cardamom"],
+    "description": "Cardamom supports digestive health and has antimicrobial properties. It is widely used in traditional remedies and culinary practices.",
+    "region": "India",
+    "plantType": "Spice",
+    "medicinalUses": ["Digestive Health", "Antimicrobial"],
+    "imageUrls": [
+      "https://example.com/images/cardamom1.jpg",
+      "https://example.com/images/cardamom2.jpg"
+    ],
+    "model3DUrl": "https://example.com/models/cardamom.glb",
+    "videoUrls": [
+      "https://youtube.com/shorts/_3HhE2JRjpk?si=oKNHe1NftQLe_myW"
+    ],
+    "audioUrl": "https://example.com/audio/cardamom_description.mp3",
+    "habitat": "Native to India, grows in tropical and subtropical climates.",
+    "cultivation": "Requires a moist, tropical climate and well-drained soil."
+  },
+  {
+    "botanicalName": "Syzygium aromaticum",
+    "commonNames": ["Clove", "Clove Buds"],
+    "description": "Cloves are rich in antioxidants and widely used for pain relief, especially in dental care. They also have antibacterial properties.",
+    "region": "Indonesia",
+    "plantType": "Flower Bud",
+    "medicinalUses": ["Pain Relief", "Antibacterial", "Antioxidant"],
+    "imageUrls": [
+      "https://example.com/images/clove1.jpg",
+      "https://example.com/images/clove2.jpg"
+    ],
+    "model3DUrl": "https://example.com/models/clove.glb",
+    "videoUrls": [
+      "https://youtube.com/shorts/9X9yMb1zkNw?si=YPXLfUSjT5Ze_CIC"
+    ],
+    "audioUrl": "https://example.com/audio/clove_description.mp3",
+    "habitat": "Native to Indonesia, thrives in tropical climates.",
+    "cultivation": "Prefers warm, humid conditions with rich, well-drained soil."
+  }
+]
